@@ -5,3 +5,5 @@
 ```shell
 python main.py
 ```
+
+This will compile *target.py* to an AST tree, then be modified and executed. Have fun.
